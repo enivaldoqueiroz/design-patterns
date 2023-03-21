@@ -1,0 +1,8 @@
+D:\C-CHARP DOTNET\C# - Design Patterns\design-patterns\PizzariaSemFactory\PizzariaSemFactory\bin\Debug\PizzariaSemFactory.exe.config
+D:\C-CHARP DOTNET\C# - Design Patterns\design-patterns\PizzariaSemFactory\PizzariaSemFactory\bin\Debug\PizzariaSemFactory.exe
+D:\C-CHARP DOTNET\C# - Design Patterns\design-patterns\PizzariaSemFactory\PizzariaSemFactory\bin\Debug\PizzariaSemFactory.pdb
+D:\C-CHARP DOTNET\C# - Design Patterns\design-patterns\PizzariaSemFactory\PizzariaSemFactory\obj\Debug\PizzariaSemFactory.csproj.AssemblyReference.cache
+D:\C-CHARP DOTNET\C# - Design Patterns\design-patterns\PizzariaSemFactory\PizzariaSemFactory\obj\Debug\PizzariaSemFactory.csproj.SuggestedBindingRedirects.cache
+D:\C-CHARP DOTNET\C# - Design Patterns\design-patterns\PizzariaSemFactory\PizzariaSemFactory\obj\Debug\PizzariaSemFactory.csproj.CoreCompileInputs.cache
+D:\C-CHARP DOTNET\C# - Design Patterns\design-patterns\PizzariaSemFactory\PizzariaSemFactory\obj\Debug\PizzariaSemFactory.exe
+D:\C-CHARP DOTNET\C# - Design Patterns\design-patterns\PizzariaSemFactory\PizzariaSemFactory\obj\Debug\PizzariaSemFactory.pdb
