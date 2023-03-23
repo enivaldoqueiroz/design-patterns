@@ -64,3 +64,22 @@
     (convertido para uma classe de produto abstrato)
 
     3 - O Cliente usa os produtos sem estar ciente de usar implementação concreta.
+
+### Factory Method - Intenção e objetivo
+
+    Definir uma interface para criar objetos mas permitir que as subclasses decidam qual classe instanciar
+    Permitit que Cliente não precise saber quais tipos de objetos serão criados.
+    Usa a herança e depende de uma subclasse para tratar com a instanciação do objeto desejado
+    Cria uma instância  de varias classes derivadas
+
+    Obs.: Usaso para criar objetos sem expor a lógica de criação do objeto ao cliente.
+
+#### Product 
+    - Define a interface de objetos que o Factory Method cria
+#### ConcreteProduct 
+    - É a classe que implementa a interface Product
+#### Creator 
+    - É a classe abstrata/inteface que declara o Factory Method, o qual retorna um objeto de tipo Product
+#### ConcreteCreator 
+    - É a classe que implementa a classe Creator e sobrescreve o Factory Method para retornar a intância de ConcreteProct
+    (decide qual classe instanciar)
