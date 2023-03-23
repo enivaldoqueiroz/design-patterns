@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "68e68687-c51c-4a78-a010-fc3151bf6f9f": {
+      "ProjectGuid": "68e68687-c51c-4a78-a010-fc3151bf6f9f",
+      "DisplayName": "PizzariaSemFactory",
+      "ColorIndex": 0
+    },
+    "e2ca2cd2-b651-4e56-a368-f21be6b117d3": {
+      "ProjectGuid": "e2ca2cd2-b651-4e56-a368-f21be6b117d3",
+      "DisplayName": "PizzaSimpleFactory",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
